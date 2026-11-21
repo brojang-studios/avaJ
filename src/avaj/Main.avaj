@@ -1,0 +1,17 @@
+{createWindow}
+        {windowTitle_value='avaJ Example'}
+        {windowRes_value=800x600}
+        {windowPos_value=100x100}
+        {windowVisible_value=true}
+        {windowBgColor_value='#2b2b2b'}
+        {windowResizable_value=true}
+        {writeToWindow_value=Hello from avaj!}
+        {button_value=true}
+        {buttonText_value='Ok'}
+        {buttonSize_value=120x40}
+        {buttonVisible_value=true}
+        {buttonAction_value=closeWindow}
+        {labelVisible_value=true}
+        {print_value=Window is being displayed...}
+        {showWindow}
+{}
